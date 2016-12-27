@@ -3,9 +3,9 @@
 Assignment for CMPS 339 - Database Management
 <h3>Tools:</h3> <br>
     <ul><li>- [x] C#</li>
-    <li>- [x] SQL</li></ul>
-    <li>- [x] Visual Studio 2015</li></ul>
-    <li>- [x] SQL Management Studio</li></ul>
+    <ul><li>- [x] SQL</li></ul>
+    <ul><li>- [x] Visual Studio 2015</li></ul>
+    <ul><li>- [x] SQL Management Studio</li></ul>
 
     
     
